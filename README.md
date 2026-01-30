@@ -11,3 +11,18 @@ V kódu je možné volně upravovat:
 - počet kol simulace
 - počet vzájemných interakcí mezi hráči
 - výplatní matici
+
+Seznam příloh:
+ Příloha 1 : Všechny strategie, počet interakcí: 1
+ Příloha 2 : Všechny strategie, počet interakcí: 20, analýza č. 1
+ Příloha 3 : Všechny strategie, počet interakcí: 20, analýza č. 2
+ Příloha 4 : Všechny strategie, počet interakcí: 20, analýza č. 3
+ Příloha 5 : Všechny strategie, počet interakcí: 50, analýza č. 1
+ Příloha 6 : Všechny strategie, počet interakcí: 50, analýza č. 2
+ Příloha 7 : Všechny strategie, počet interakcí: 50, analýza č. 3
+ Příloha 8 : Všechny strategie, počet interakcí: 150, analýza č. 1
+ Příloha 9 : Všechny strategie, počet interakcí: 150, analýza č. 2
+ Příloha 10 : Všechny strategie, počet interakcí: 150, analýza č. 3
+ Příloha 11 : Všechny strategie, počet interakcí: 10, upravená matice
+ Příloha 12 : Všechny strategie, počet interakcí: 150, upravená matice
+ Příloha 13 : Tabulka sum všech hráčů
